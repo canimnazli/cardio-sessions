@@ -1,3 +1,4 @@
+//added comment to try merge with another branch at the same time with edits on both
 //book class: represents a book
 class Book {
   constructor(title, author, isbn) {
